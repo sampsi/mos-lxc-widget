@@ -1,0 +1,26 @@
+{
+  "plugin_lxc_widget": {
+    "running": "laufen",
+    "empty": "Nichts anzuzeigen",
+    "forbidden": "Erfordert ein Administratorkonto",
+    "load_failed": "Status konnte nicht geladen werden",
+    "actions": "Aktionen",
+    "webui": "Web-UI",
+    "start": "Starten",
+    "stop": "Stoppen",
+    "restart": "Neu starten",
+    "settings": "Einstellungen",
+    "interval": "Aktualisierungsintervall (Sekunden)",
+    "show_stopped": "Gestoppte anzeigen",
+    "show_usage": "CPU und Speicher anzeigen",
+    "shown_in_widget": "Im Widget angezeigt",
+    "save": "Speichern",
+    "saved": "Gespeichert",
+    "save_failed": "Speichern fehlgeschlagen",
+    "title": "LXC Widget",
+    "open_page": "LXC-Seite öffnen",
+    "freeze": "Einfrieren",
+    "unfreeze": "Auftauen",
+    "backups": "Sicherungen"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "plugin_lxc_widget": {
+    "running": "käynnissä",
+    "empty": "Ei näytettävää",
+    "forbidden": "Vaatii ylläpitäjätunnuksen",
+    "load_failed": "Tilaa ei saatu haettua",
+    "actions": "Toiminnot",
+    "webui": "Web-käyttöliittymä",
+    "start": "Käynnistä",
+    "stop": "Pysäytä",
+    "restart": "Käynnistä uudelleen",
+    "settings": "Asetukset",
+    "interval": "Päivitysväli (sekuntia)",
+    "show_stopped": "Näytä pysäytetyt",
+    "show_usage": "Näytä prosessori ja muisti",
+    "shown_in_widget": "Näytetään widgetissä",
+    "save": "Tallenna",
+    "saved": "Tallennettu",
+    "save_failed": "Tallennus epäonnistui",
+    "title": "LXC-widget",
+    "open_page": "Avaa LXC-sivu",
+    "freeze": "Jäädytä",
+    "unfreeze": "Sulata",
+    "backups": "Varmuuskopiot"
+  }
+}
